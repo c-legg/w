@@ -1,8 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
+html {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
 }
 
 #bg-primary {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
     background-color: #337ab7;
     height: 100px;
     margin:0 auto;
@@ -21,6 +22,7 @@ body {
 }
 
 #navbar {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
     background-color: #333;
     color: white;
     padding: 10px 0;
@@ -48,8 +50,9 @@ body {
     text-decoration: underline;
 }
 
-.rounded-box {
-    background-color: #f2f2f2;
+#rounded-box {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
+    background-color: #f7f8d8;
     color: #333;
     padding: 20px;
     width: 65%;
@@ -59,7 +62,8 @@ body {
     text-align: center;
 }
 
-p {
+#rounded-box ul {
     margin: 0;
     font-size: 16px;
+    text-align: left;
 }

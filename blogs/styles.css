@@ -1,8 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
+html {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
 }
 
 #bg-primary {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
     background-color: #337ab7;
     height: 100px;
     margin:0 auto;
@@ -21,6 +22,7 @@ body {
 }
 
 #navbar {
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
     background-color: #333;
     color: white;
     padding: 10px 0;
@@ -49,7 +51,8 @@ body {
 }
 
 #rounded-box {
-    background-color: #f2f2f2;
+    font-family: 'Cascadia Code Light', 'Microsoft YaHei';
+    background-color: #f7f8d8;
     color: #333;
     padding: 20px;
     width: 65%;
